@@ -14,7 +14,7 @@ by Natetion
 - !!AutoHotKey v2 !! -
 -  https://www.autohotkey.com/	-
 
--**Controls are**:   
+-**Controls**:   
 		- 0 (for inserting all combinations)
 		- 9 (for "switch")  
 		- 8 (for "view monitor")
