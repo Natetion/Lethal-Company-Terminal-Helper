@@ -7,7 +7,7 @@ by Natetion
 
 
 - A simple AutoHotKey that inserts ALL possible Door/Landmine/Turret combinations which would disable them
-- into your terminal, so you are able to help your friends in the dungeon much quicker! 
+  into your terminal, so you are able to help your friends in the dungeon much quicker! 
 - It also contains a Hotkeys for the "view monitor" command and for the "switch" command. 
 
 - !!AutoHotKey v2 is required!! -
