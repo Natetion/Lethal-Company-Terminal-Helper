@@ -24,5 +24,5 @@ Helper like this:
 - may be annoying and very loud due to the several inserts
 - are somtimes considered as cheating 
 
-	- if its annoying loud try my other Version
+	- if its annoying loud try my other version that contains the most COMMON combinations
 	- if this doesn´t work try out my other Versiob that contains the most COMMON combinations
