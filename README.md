@@ -6,10 +6,10 @@ by Natetion
 19th of February 2024
 
 
-- A simple AutoHotKey that inserts ALL possible Door/Landmine/Turret combinations which would disable them
+- A simple AutoHotKey that inserts  /ALL possible/most COMMON/  Door/Landmine/Turret that would disable them
   into your terminal, so you are able to help your friends in the dungeon much quicker! 
-- It also contains a Hotkeys for the "view monitor" command and for the "switch" command. 
-
+- It also contains a Hotkeys for the "view monitor" command and for the "switch" command.
+  __Required Programs__:
 - !!AutoHotKey v2 is required!! -
 -  https://www.autohotkey.com/	-
 
@@ -19,11 +19,11 @@ by Natetion
 		- 8 (for "view monitor")
 
 Warning:
-Helper like this:
-- may sometimes not work after new updates of the game
+This Script:
+- may sometimes not work due to new updates of the game
 - may be annoying and very loud due to the several inserts
-- are somtimes considered as cheating
-- Need to be started seperately in case of interest in using
+- could be considered as cheating
+- Needs to be started seperately in case of interest in using
 
 	- if its annoying and too loud try my other version that contains the most COMMON combinations
 	- if this doesn´t work try out my other Versiob that contains the most COMMON combinations
