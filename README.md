@@ -26,5 +26,5 @@ This Script:
 - could be considered as cheating by some players
 - Needs to be started seperately in case of interest in using
 
-	- if its annoying and too loud try my other version that contains the most **common** combinations
-	- if any Issues occur try out my other version, that contains the most **common** combinations
+	- if its annoying and too loud try my other version that contains the most "**common**" combinations
+	- if any Issues occur try out my other version, that contains the most "**common**" combinations
