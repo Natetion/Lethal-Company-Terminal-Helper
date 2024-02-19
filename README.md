@@ -23,7 +23,7 @@ Helper like this:
 - may sometimes not work after new updates of the game
 - may be annoying and very loud due to the several inserts
 - are somtimes considered as cheating
-- Need to start seperately in case of interest in using
+- Need to be started seperately in case of interest in using
 
 	- if its annoying and too loud try my other version that contains the most COMMON combinations
 	- if this doesn´t work try out my other Versiob that contains the most COMMON combinations
