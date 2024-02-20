@@ -11,20 +11,17 @@ by Natetion
 - It also contains Hotkeys for the "**view monitor**" command and for the "**switch**" command.
   
   ***Required Program***:
-- !!AutoHotKey v2 !! -
+- !!AutoHotKey v1.1 !! -
 -  https://www.autohotkey.com/	-
 
 -**Controls**:   
 		- 0 (for inserting all combinations)
 		- 9 (for "switch")  
 		- 8 (for "view monitor")
-
+		| You can hold 0 for infinite repetitions |
 **Warning**:
 This Script:
 - may sometimes not work due to new updates of the game
 - may be annoying and very loud due to the several inserts
 - could be considered as cheating by some players
 - Needs to be started seperately in case of interest in using
-
-	- if its annoying and too loud try my other version that contains the most "**common**" combinations
-	- if any Issues occur try out my other version, that contains the most "**common**" combinations
