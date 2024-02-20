@@ -25,4 +25,4 @@ This Script:
 - may sometimes not work due to new updates of the game
 - may be annoying and very loud due to the several inserts
 - could be considered as cheating by some players
-- Needs to be started seperately in case of interest in using
+- needs to be started seperately
