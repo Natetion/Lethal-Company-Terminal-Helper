@@ -19,6 +19,7 @@ by Natetion
 		- 9 (for "switch")  
 		- 8 (for "view monitor")
 		| You can hold 0 for infinite repetitions |
+  
 **Warning**:
 This Script:
 - may sometimes not work due to new updates of the game
