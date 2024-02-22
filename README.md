@@ -10,7 +10,7 @@ by Natetion
   into your terminal so you are able to help your friends in the dungeon much quicker! 
 - It also contains Hotkeys for the "**view monitor**" command and for the "**switch**" command.
   
-  ***Required Program***:
+  ***Required Progra***:
 - !!AutoHotKey v1.1 !! -
 -  https://www.autohotkey.com/	-
 
